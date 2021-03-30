@@ -26,6 +26,10 @@ gem 'devise'
 gem 'annotate'
 gem 'hamlit'
 gem 'active_decorator'
+gem 'simple_form'
+gem 'enumerize'
+gem 'jquery-rails'
+gem 'carrierwave', '~> 1.0'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
